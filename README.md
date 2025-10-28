@@ -22,10 +22,4 @@ O programa permite **adicionar, listar e remover** amigos, salvando todas as inf
   - `json` — para leitura e gravação de arquivos JSON  
   - `os` — para verificar se o arquivo já existe
 
----
 
-## 💻 Como executar o projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seuusuario/cadastro-amigos.git
